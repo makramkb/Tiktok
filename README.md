@@ -6,7 +6,7 @@ I used different ML techniques to acheive the best result.
 
 I have droped the NAs and the unuseful columns from the dataset.
 
-I chose verified_status as my target and predicted its values after categorizing the outcome 0 and 1
+I chose verified_status as my target and predicted its values after categorizing the outcome 0 and 1.
 
 From there I used the Logistic Regression techinique the model was giving high preformance on the majority set (non active) and
 
